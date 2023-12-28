@@ -296,6 +296,13 @@ function reverse() {
 ```
 ## OUTPUT:9(e):
 
+![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/1e0e6385-847d-40ba-b6b3-383c660dadc1)
+
+![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/f4f58347-5e03-4d55-b879-ab643b37bffc)
+
+![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/0d8a8336-f7dd-47e6-b13f-c9e0bb2e6807)
+
+
 ## Ex-09(f)
 ## AIM
 Design a JavaScript program which displays error messages when a field in form is entered incorrectly.
@@ -358,7 +365,9 @@ function validateForm() {
 ```
 
 ## OUTPUT:9(f):
-f
+
+![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/a9c2786b-bb56-478f-8a2d-9db116483943)
+
 
 ## RESULT:
 All java codes excecuted successfully.
