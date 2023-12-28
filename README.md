@@ -1,5 +1,5 @@
 ## Ex-09 JavaScript
-### Ex-09(a)
+## Ex-09(a)
 ## AIM
 Create a form with java script code to calculate electricity bill.
 
