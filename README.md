@@ -236,7 +236,8 @@ function divide() {
 ## OUTPUT:9(d):
 ![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/14c0d946-927f-4081-9832-afcca79e3d7a)
 
-![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/de4b029e-8027-45e3-9270-8f0609315bee)
+![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/53cad91a-3a81-40c9-b6a1-357320d8c53b)
+
 
 ![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/788ebda3-6924-4a86-960e-6e273b39b9bf)
 
