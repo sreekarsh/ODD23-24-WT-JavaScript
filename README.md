@@ -49,6 +49,8 @@ Display Bill: Print the calculated bill to the console.
 
 ## OUTPUT:9(a):
 
+![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/4826e3b0-0ede-4883-b347-f20e2da3e04e)
+
 
 ## Ex-09(b)
 ## AIM
@@ -98,7 +100,9 @@ After the loop ends, result will hold the factorial of n. Return result.
 ```
 
 ## OUTPUT:9(b):
-b
+
+![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/c3849647-78e3-438b-b0b3-50a8fe245f24)
+
 
 ## Ex-09(c)
 ## AIM
@@ -154,7 +158,8 @@ function isPrime(num) {
 </html>
 ```
 ## OUTPUT:9(c):
-c
+
+![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/d0a94407-c30a-4a9b-a355-db857abbdaec)
 
 ## Ex-09(d)
 ## AIM
@@ -229,7 +234,13 @@ function divide() {
 </html>
 ```
 ## OUTPUT:9(d):
-d1 d2 d3 d4
+![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/14c0d946-927f-4081-9832-afcca79e3d7a)
+
+![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/de4b029e-8027-45e3-9270-8f0609315bee)
+
+![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/788ebda3-6924-4a86-960e-6e273b39b9bf)
+
+![image](https://github.com/sreekarsh/ODD23-24-WT-JavaScript/assets/139841918/140617dd-90c2-4b13-bda4-c1cc21074e9c)
 
 ## Ex-09(e)
 ## AIM
@@ -284,7 +295,6 @@ function reverse() {
 </html>
 ```
 ## OUTPUT:9(e):
-e1 e2 e3
 
 ## Ex-09(f)
 ## AIM
